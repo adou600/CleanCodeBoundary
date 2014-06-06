@@ -1,0 +1,7 @@
+C:\Users\adni\documents\visual studio 2013\Projects\AdapterExample-CleanCodeBoundaries\TestPatterns\bin\Debug\TestPatterns.dll
+C:\Users\adni\documents\visual studio 2013\Projects\AdapterExample-CleanCodeBoundaries\TestPatterns\bin\Debug\TestPatterns.pdb
+C:\Users\adni\documents\visual studio 2013\Projects\AdapterExample-CleanCodeBoundaries\TestPatterns\bin\Debug\FileAPI.dll
+C:\Users\adni\documents\visual studio 2013\Projects\AdapterExample-CleanCodeBoundaries\TestPatterns\bin\Debug\FileAPI.pdb
+C:\Users\adni\documents\visual studio 2013\Projects\AdapterExample-CleanCodeBoundaries\TestPatterns\obj\Debug\TestPatterns.csprojResolveAssemblyReference.cache
+C:\Users\adni\documents\visual studio 2013\Projects\AdapterExample-CleanCodeBoundaries\TestPatterns\obj\Debug\TestPatterns.dll
+C:\Users\adni\documents\visual studio 2013\Projects\AdapterExample-CleanCodeBoundaries\TestPatterns\obj\Debug\TestPatterns.pdb

@@ -1,0 +1,8 @@
+C:\Users\adni\documents\visual studio 2013\Projects\AdapterExample-CleanCodeBoundaries\AdapterExample-CleanCodeBoundaries\bin\Debug\AdapterExample-CleanCodeBoundaries.exe.config
+C:\Users\adni\documents\visual studio 2013\Projects\AdapterExample-CleanCodeBoundaries\AdapterExample-CleanCodeBoundaries\bin\Debug\AdapterExample-CleanCodeBoundaries.exe
+C:\Users\adni\documents\visual studio 2013\Projects\AdapterExample-CleanCodeBoundaries\AdapterExample-CleanCodeBoundaries\bin\Debug\AdapterExample-CleanCodeBoundaries.pdb
+C:\Users\adni\documents\visual studio 2013\Projects\AdapterExample-CleanCodeBoundaries\AdapterExample-CleanCodeBoundaries\obj\Debug\AdapterExample-CleanCodeBoundaries.exe
+C:\Users\adni\documents\visual studio 2013\Projects\AdapterExample-CleanCodeBoundaries\AdapterExample-CleanCodeBoundaries\obj\Debug\AdapterExample-CleanCodeBoundaries.pdb
+C:\Users\adni\documents\visual studio 2013\Projects\AdapterExample-CleanCodeBoundaries\AdapterExample-CleanCodeBoundaries\obj\Debug\AdapterExample-CleanCodeBoundaries.csprojResolveAssemblyReference.cache
+C:\Users\adni\documents\visual studio 2013\Projects\AdapterExample-CleanCodeBoundaries\AdapterExample-CleanCodeBoundaries\bin\Debug\FileAPI.dll
+C:\Users\adni\documents\visual studio 2013\Projects\AdapterExample-CleanCodeBoundaries\AdapterExample-CleanCodeBoundaries\bin\Debug\FileAPI.pdb

@@ -1,0 +1,5 @@
+C:\Users\adni\documents\visual studio 2013\Projects\AdapterExample-CleanCodeBoundaries\FileAPI\bin\Debug\FileAPI.dll
+C:\Users\adni\documents\visual studio 2013\Projects\AdapterExample-CleanCodeBoundaries\FileAPI\bin\Debug\FileAPI.pdb
+C:\Users\adni\documents\visual studio 2013\Projects\AdapterExample-CleanCodeBoundaries\FileAPI\obj\Debug\FileAPI.dll
+C:\Users\adni\documents\visual studio 2013\Projects\AdapterExample-CleanCodeBoundaries\FileAPI\obj\Debug\FileAPI.pdb
+C:\Users\adni\documents\visual studio 2013\Projects\AdapterExample-CleanCodeBoundaries\FileAPI\obj\Debug\FileAPI.csprojResolveAssemblyReference.cache
